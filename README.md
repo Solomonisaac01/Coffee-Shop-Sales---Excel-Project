@@ -323,30 +323,6 @@ Designed an interactive dashboard containing:
 
 ---
 
-## 📂 Project Structure
-
-```text
-Coffee-Shop-Sales-Analysis/
-│
-├── Coffee_Shop_Sales_Analysis.xlsx
-├── Screenshot.png
-└── README.md
-```
-
----
-
-## 🚀 How to Use
-
-1. Download the Excel workbook from this repository.
-2. Open the workbook using **Microsoft Excel**.
-3. Navigate to the dashboard sheet.
-4. Use the **Month** and **Day Name** slicers.
-5. Select different values to filter the dashboard.
-6. Analyze the KPIs and charts.
-7. Use the insights to understand customer behavior and sales performance.
-
----
-
 ## 🎓 Skills Demonstrated
 
 This project demonstrates practical skills in:
@@ -382,7 +358,3 @@ The dashboard demonstrates how Excel can be used to transform raw business data 
 **Solomon Isaac**
 
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
-
----
-
-⭐ If you find this project useful, consider giving the repository a **star** on GitHub.
