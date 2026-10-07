@@ -319,7 +319,7 @@ Designed an interactive dashboard containing:
 
 ## 📊 Dashboard Preview
 
-![Coffee Shop Sales Dashboard](Screenshot.png)
+https://github.com/Solomonisaac01/Coffee-Shop-Sales---Excel-Project/blob/main/Screenshot.png
 
 ---
 
